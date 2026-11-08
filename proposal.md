@@ -1,7 +1,7 @@
 # Reference Image Combiner
 
 ## Repository
-<[Link to project's GitHub respository](https://github.com/Unceremonious-Screaming/Reference-Image-Combiner)>
+[Link to project's GitHub respository](https://github.com/Unceremonious-Screaming/Reference-Image-Combiner)
 
 ## Description
 My project will generate one PNG file out of multiple given images, combining them in an organized way so that every image can be referenced from one file. This will be useful for creating a single file that can be referenced for a character design, mood boards, concept ideas, etc, so that the user won't have to make one manually for their creative projects.
