@@ -16,7 +16,7 @@ My project will generate one PNG file out of multiple given images, combining th
 
 ## Challenges
 - I will need to learn how to get the images to organize in an ideal way based on their size; I need to figure out how to tell the code to put an image in a certain spot based on the sizes of other images.
-- Randomization of the organization may be difficult due to similar reasons as mentioned above; I need to learn how to get the code to reorganized in an optimal way in multiple different orientations.
+- Randomization of the organization may be difficult due to similar reasons as mentioned above; I need to learn how to get the code to reorganize in an optimal way in multiple different orientations.
 - I may need to learn how to get the code to process images that are not perfectly square.
 
 ## Outcomes
